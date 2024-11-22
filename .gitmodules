@@ -1,0 +1,6 @@
+[submodule "p_e_front"]
+	path = p_e_front
+	url = https://github.com/franky-04/p_e_front.git
+[submodule "p_e_back"]
+	path = p_e_back
+	url = https://github.com/franky-04/p_e_back.git
