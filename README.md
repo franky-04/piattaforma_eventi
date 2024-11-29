@@ -53,7 +53,7 @@ git commit -m "Update submodules"
 git push
 ```
 
-# Workflow Git per Progetti con Submodule
+# ESEMPIO Workflow Git per Progetti con Submodule
 
 ## 1. Modifiche al Frontend
 
